@@ -15,6 +15,8 @@
 
 Az ATC Deck a [ROBI-esp32](https://github.com/zoltan-234/ROBI-esp32) projekt radarjának asztali változata. Egy zöld, forgó pásztázós radaron mutatja a környék repülőit, mellette pedig élőben szól a budapesti légiforgalmi irányítás. Mindig a többi ablak fölött marad, de kompakt módban a sarokba húzva sem zavar.
 
+> 📄 **Útmutató PDF:** az [ATC_Deck_utmutato.pdf](ATC_Deck_utmutato.pdf) 3 oldalon, képekkel mutatja be a telepítést, a funkciókat és a működést. Azt is leírja, pontosan mit telepít és mit használ a program a gépen, és hogyan lehet eltávolítani.
+
 ## Funkciók
 
 **Radar**
